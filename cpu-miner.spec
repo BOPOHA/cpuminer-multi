@@ -33,6 +33,9 @@ See https://bitcointalk.org/index.php?topic=55038.0 for more details.
 %doc /usr/share/man/man1/minerd.1.gz
 
 %changelog
+* Mon Sep 12 2016 Anatolii Vorona <vorona.tolik@gmail.com> 2.4.0-1
+- new package built with tito
+
 * Wed Dec 11 2013 Huaren Zhong <huaren.zhong@gmail.com> - 2.3.2
 - Rebuild for Fedora
 
